@@ -1,0 +1,75 @@
+#main{
+   width: 30%;
+   height: 430px;
+   border: 1px solid rgb(0, 0, 0);
+   background-position: center;
+}
+#rt{
+   background-color: rgb(66, 66, 121);
+}
+#www{
+   text-align: right;
+}
+p ::first-letter{
+   color: brown;
+}
+#www{
+   color: rgb(50, 106, 228);
+}
+#l{
+   text-align: left;
+   color: rgb(34, 101, 226);
+}
+div{
+   text-align: center
+}
+img{
+   width: 40px;
+   height: 40px;
+   text-align: left;
+}
+#dd{
+   width: 40px;
+   height: 40px;
+   text-align: left;
+}
+#tt{
+   width: 40px;
+   height: 40px;
+   text-align: left;
+}
+h2{
+   background-color: lightskyblue;
+}
+#q{
+   width: 40px;
+   height: 40px;
+   text-align: left;
+}
+#ff{
+   background-image:url(https://png.pngtree.com/png-vector/20191009/ourmid/pngtree-user-icon-png-image_1796659.jpg)  ;
+   background-repeat: no-repeat;
+   background-size: 15px;
+   
+}
+#a{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa500ocwb9Fm1VPENgpcGnDUpI8jbG_ZJAXAd85wILQ&s);
+   background-repeat: no-repeat;
+   background-size: 15px;
+}
+#b{
+   background-image: url(https://static.vecteezy.com/system/resources/previews/003/720/498/original/phone-icon-telephone-icon-symbol-for-app-and-messenger-vector.jpg);
+   background-repeat: no-repeat;
+   background-size: 15px;
+   
+}
+#c{
+   background-image: url(https://icons.veryicon.com/png/o/internet--web/sesame-treasure/login-password-3.png);
+   background-repeat: no-repeat;
+   background-size: 15px;
+}
+#d{
+   background-image: url(https://icons.veryicon.com/png/o/internet--web/sesame-treasure/login-password-3.png);
+   background-repeat: no-repeat;
+   background-size: 15px;
+}
